@@ -1,0 +1,12 @@
+.pi {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-top: 500px;
+  padding-right: 100px;
+}
+.plus {
+  height: 50px;
+  width: 50px;
+  background-color: cyan;
+}
